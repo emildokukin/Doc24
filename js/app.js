@@ -1,4 +1,4 @@
-console.log(window.screen.width);
+alert(window.screen.width);
 
 function openMenu() {
     $('.form-control').select2('open');
