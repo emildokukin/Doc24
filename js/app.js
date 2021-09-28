@@ -1,8 +1,3 @@
-alert(window.screen.width);
-alert(window.outerWidth);
-alert(window.innerWidth);
-alert(document.documentElement.clientWidth);
-
 function openMenu() {
     $('.form-control').select2('open');
 }
